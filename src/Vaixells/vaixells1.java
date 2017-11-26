@@ -4,6 +4,8 @@ package Vaixells;
 import java.util.Random;
 import java.util.Scanner;
 
+//AQUESTA ÉS LA VERSIÓ MODIFICADA
+
 public class vaixells1 {
 
     static int[] shipPosition;
